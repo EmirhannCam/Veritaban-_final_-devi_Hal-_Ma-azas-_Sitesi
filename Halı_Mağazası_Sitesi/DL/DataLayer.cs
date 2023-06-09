@@ -16,7 +16,7 @@ namespace Halı_Mağazası_Sitesi.DL
                 Server = "127.0.0.1" ,
                 Database = "emrhn_spot" ,
                 UserID = "root" ,
-                Password ="Emirhan.1625" ,
+                Password ="************" ,
             }.ConnectionString
             );
         public static int MüşteriEkle(Musteri m)
